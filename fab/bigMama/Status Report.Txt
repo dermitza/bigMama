@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [bigMama.PrjPCB]
+   Generated File[bigMama.GTL]
+   Generated File[bigMama.GBL]
+   Generated File[bigMama.GPB]
+   Generated File[bigMama.GPT]
+   Generated File[bigMama.GTO]
+   Generated File[bigMama.GTP]
+   Generated File[bigMama.GTS]
+   Generated File[bigMama.GBS]
+   Generated File[bigMama.GBO]
+   Generated File[bigMama.GM13]
+   Generated File[bigMama.GM15]
+   Generated File[bigMama.GKO]
+   Generated File[bigMama.RUL]
+   Generated File[bigMama.EXTREP]
+   Generated File[bigMama.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 18:51:23 On 04/04/2013

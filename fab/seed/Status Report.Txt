@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [bigMama.PrjPCB]
+   Generated File[seeed.GTL]
+   Generated File[seeed.GBL]
+   Generated File[seeed.GPB]
+   Generated File[seeed.GPT]
+   Generated File[seeed.GTO]
+   Generated File[seeed.GTP]
+   Generated File[seeed.GTS]
+   Generated File[seeed.GBS]
+   Generated File[seeed.GBO]
+   Generated File[seeed.GM13]
+   Generated File[seeed.GM15]
+   Generated File[seeed.GKO]
+   Generated File[seeed.RUL]
+   Generated File[seeed.EXTREP]
+   Generated File[seeed.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 18:49:46 On 04/04/2013
